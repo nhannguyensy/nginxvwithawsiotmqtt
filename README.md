@@ -39,3 +39,6 @@ You must use nginx module: ngx_stream_proxy_module ( like network load balancer)
                 ssl_preread on;
         }
 } 
+
+
+https://www.0937686468.com/2022/09/nginx-reverse-proxy-for-aws-iot-mqtt.html
